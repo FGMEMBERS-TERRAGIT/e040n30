@@ -1,1 +1,9 @@
 OBJECT_SHARED Models/Airport/tacan.xml 43.593933 33.339469 81.6 180
+OBJECT_SHARED Models/Military/us-hush-house-hangar-sand.xml 43.589705 33.341347 80.31 28
+OBJECT_SHARED Models/Military/us-hush-house-hangar-sand.xml 43.595102 33.338972 81.61 28
+OBJECT_SHARED Models/Military/AmmoBunker.ac 43.601775 33.336211 80.95 300
+OBJECT_SHARED Models/Military/tower-usaf-40m.xml 43.593836 33.342611 79.42 0
+OBJECT_SHARED Models/Aircraft/HH-60-lowpoly.xml 43.603395 33.335198 80.74 300
+OBJECT_SHARED Models/Aircraft/HH-60-lowpoly.xml 43.604822 33.334652 80.18 300
+OBJECT_SHARED Models/Aircraft/c130-herc-obj1.xml 43.584867 33.343507 81.47 120
+OBJECT_SHARED Models/Military/SPAF_Tower.xml 43.594608 33.342253 79.3 0
