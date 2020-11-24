@@ -3,3 +3,9 @@ OBJECT_SHARED Models/Airport/ils.xml 44.373878 33.932583 47.96 34.04
 OBJECT_SHARED Models/Communications/vordme_1.xml 44.368058 33.935911 48.34 180
 OBJECT_SHARED Models/Airport/localizer.xml 44.353536 33.95935 47.51 55.78
 OBJECT_SHARED Models/Airport/localizer.xml 44.378586 33.928783 47.47 235.8
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fboModern1.ac 44.36687 33.92660 0.00 282.09
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 44.36294 33.92887 46.53 55.31
+# END dsf2stg
